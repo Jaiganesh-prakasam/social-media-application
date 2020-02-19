@@ -1,6 +1,12 @@
+# Social Media Application
+  This is a sample application with login page, Profile page 
+  Included D3.js Force layout graph visualization with connections
+  Material Design used
+  
 # Mt
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+The project was Updated to Latest CLI(9.0.2)
 
 ## Development server
 
